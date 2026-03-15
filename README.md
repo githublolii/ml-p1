@@ -8,7 +8,7 @@ Things I learned after completing this project:
 4)How to investigate whether a candidate solution model is adequate for the problem.
 
 
-**All that came after studying the following ML concepts:**
+**All that came after studying the following ML concepts:**  
 Machine Learning Brid's Eye View  
 Linear Regression  
 Perceptron Algorithm  
