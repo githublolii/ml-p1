@@ -9,13 +9,13 @@ Things I learned after completing this project:
 
 
 **All that came after studying the following ML concepts:**
-Machine Learning Brid's Eye View
-Linear Regression
-Perceptron Algorithm
-Decision Trees
-Naive Bayes
-Support Vector Machines
-Ensemble Methods
-Model Evaluation Metrics
-Training and Tuning
-
+Machine Learning Brid's Eye View  
+Linear Regression  
+Perceptron Algorithm  
+Decision Trees  
+Naive Bayes  
+Support Vector Machines  
+Ensemble Methods  
+Model Evaluation Metrics  
+Training and Tuning  
+ 
